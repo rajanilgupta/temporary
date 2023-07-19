@@ -1,0 +1,11 @@
+.admin-dashboard {
+  height: 100vh;
+  margin-bottom: 0%;
+  padding: 16px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
